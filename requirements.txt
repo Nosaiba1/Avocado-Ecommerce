@@ -26,7 +26,7 @@ django-sekizai==0.10.0
 django-templated-mail==1.1.1
 django-treebeard==4.3
 djangocms-admin-style==1.2.8
-djangorestframework==3.7.0
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 djangorestframework-yaml==1.0.3
 -e git+https://github.com/sunscrapers/djoser.git@815092c04a29be58ac67a4c31499970778b4fb8b#egg=djoser
